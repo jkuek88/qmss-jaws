@@ -1,2 +1,2 @@
 # qmss-jaws
-My first repository
+My first repository, using this for school work.
